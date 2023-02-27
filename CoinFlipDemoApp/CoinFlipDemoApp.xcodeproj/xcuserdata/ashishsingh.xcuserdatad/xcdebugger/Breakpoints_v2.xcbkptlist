@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6C42C149-90AD-4B10-A460-A597ABD419BF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF245E2B-531B-4529-B3C2-B6B281C565D3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CoinFlipDemoAppTests/CoinFlipViewModelTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "testHandleEventFailed()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CF245E2B-531B-4529-B3C2-B6B281C565D3 - 5627b36142e6c616"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;CoinFlipDemoApp.AppErrors&gt;) -&gt; () in CoinFlipDemoAppTests.CoinFlipViewModelTests.testHandleEventFailed() -&gt; ()"
+                  moduleName = "CoinFlipDemoAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ashishsingh/Desktop/Work/CoinFlipDemoApp/CoinFlipDemoAppTests/CoinFlipViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "187">
+               </Location>
+               <Location
+                  uuid = "CF245E2B-531B-4529-B3C2-B6B281C565D3 - 5627b36142e6c7d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;CoinFlipDemoApp.AppErrors&gt;) -&gt; () in CoinFlipDemoAppTests.CoinFlipViewModelTests.testHandleEventFailed() -&gt; ()"
+                  moduleName = "CoinFlipDemoAppTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ashishsingh/Desktop/Work/CoinFlipDemoApp/CoinFlipDemoAppTests/CoinFlipViewModelTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "246">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
